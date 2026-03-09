@@ -1,5 +1,7 @@
-export default function BlogPage() {
+export default function AboutPage() {
     return (
-        <div> Hello World</div>
+        <div>
+            <h2>Hello World</h2>
+        </div>
     )
 }

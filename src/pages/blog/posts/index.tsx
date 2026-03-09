@@ -1,4 +1,4 @@
-export default function BlogPage() {
+export default function PostsPage() {
     return (
         <div>
             <h2>Hello World</h2>
